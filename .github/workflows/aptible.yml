@@ -20,3 +20,4 @@ jobs:
         environment: applestest
         username: ${{ secrets.APTIBLE_USERNAME }}
         password: ${{ secrets.APTIBLE_PASSWORD }}
+
